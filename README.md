@@ -2,7 +2,7 @@
 
 ## Overview 📜
 
-Welcome to the CosMoS Constellation Detection Dashboard! This interactive web dashboard is designed to identify constellations in the night sky using advanced computer vision techniques powered by Roboflow 🤖. Users can upload their starry sky pictures and receive detailed insights into the constellations captured in their photos.
+Welcome too the CosMoS Constellation Detection Dashboard! This interactive web dashboard is designed to identify constellations in the night sky using advanced computer vision techniques powered by Roboflow 🤖. Users can upload their starry sky pictures and receive detailed insights into the constellations captured in their photos.
 
 ## Features 🚀
 
